@@ -5,8 +5,8 @@
 //    static void Main()
 //    {
 //        // Declare and initialize variables
-//        string userName = "Shittal";
-//        int luckyNumber = 10;
+//        string userName = "Pranita";
+//        int luckyNumber = 7;
 
 //        // Display the message using string interpolation
 //        Console.WriteLine($"Hello, {userName}! Your lucky number is {luckyNumber}.");
